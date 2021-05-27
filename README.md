@@ -1,4 +1,4 @@
-# vue技巧-布局管理
+# vue应用-布局管理
 
 整理自文章：[Vue tricks: smart layouts for VueJS](https://itnext.io/vue-tricks-smart-layouts-for-vuejs-5c61a472b69b)
 
